@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4d6bb83190975947bffc5c32f0e8bec, type: 3}
+  m_Name: da
+  m_EditorClassIdentifier: 
+  name: da
+  strokes: 3
+  definitions: "1.\tof great size; big; large; huge 2.\tbig; great 3.\tgreat of its
+    kind 4.\tin an extreme manner; greatly 5.\tmain; major  6.\twell-known; successful
+    (only applied to some occupations) 7.\tmature; grown up 8.\t(Cantonese) to grow
+    up 9.\t(Cantonese) to be older than 10.\t(dialectal) father 11.\t(dialectal)
+    father's elder or younger brother 12.\t(Cantonese, slang) to intimidate; to threaten
+    13.\t(Cantonese) only so big 14.\t(Cantonese, euphemistic) number two 15.\tShort
+    for \u201Cuniversity\u201D. Used only in the abbreviation of the name. 16.\t45th
+    tetragram of the Taixuanjing; \"greatness\" 17.\ta surname "
